@@ -1,11 +1,23 @@
-# Bài tập Python — Chương 1
+# Bài tập Python
 
 **Sinh viên:** Hoàng Tiến Đạt  
 **Mã sinh viên:** 223030610
 
-Lời giải **Bài 1.1–1.5** trong phần **Bài tập** của notebook Chương 1, tài liệu *Kỹ thuật lập trình Python* — Nguyễn Mạnh Hùng.
+Các bài tập trong tài liệu *Kỹ thuật lập trình Python* — Nguyễn Mạnh Hùng.
 
-Mỗi notebook có đề bài, dự đoán hoặc phân tích lỗi, mã Python và kết quả đã chạy. Các bài được tách thành năm tệp để tiện xem và chấm.
+Mỗi bài được làm trong một notebook riêng, gồm đề bài, lời giải và kết quả chạy.
+
+## Chương 2
+
+| Bài | Nội dung | Notebook |
+|---|---|---|
+| 2.3 | Tham số mặc định và biến trong, ngoài hàm | [Bài 2.3](Bai_2_3_Tham_so_va_bien.ipynb) |
+| 2.4 | Hàm đệ quy tính tổng chữ số và đếm số lời gọi | [Bài 2.4](Bai_2_4_Ham_de_quy.ipynb) |
+| 2.7 | Đọc lỗi và xử lý ngoại lệ khi nhập dữ liệu | [Bài 2.7](Bai_2_7_Xu_ly_ngoai_le.ipynb) |
+| 2.10 | Sửa điều kiện dùng toán tử `or` | [Bài 2.10](Bai_2_10_Sua_dieu_kien_or.ipynb) |
+| 2.11 | Sửa tham số mặc định là danh sách | [Bài 2.11](Bai_2_11_Tham_so_mac_dinh.ipynb) |
+
+## Chương 1
 
 | Bài | Nội dung | Notebook |
 |---|---|---|
@@ -21,12 +33,13 @@ Mỗi notebook có đề bài, dự đoán hoặc phân tích lỗi, mã Python 
 - Để chạy trên Google Colab: mở [Google Colab](https://colab.research.google.com/), chọn **GitHub**, nhập `https://github.com/dogdt/bai-tap-python` rồi chọn notebook.
 - Để chạy trên máy: dùng Python 3, cài Jupyter bằng `python3 -m pip install jupyterlab`, mở bằng `python3 -m jupyterlab` rồi chọn **Run All Cells**. Mã bài tập chỉ dùng thư viện chuẩn của Python.
 
-Các notebook dùng dữ liệu cho sẵn để có thể chạy toàn bộ mà không chờ nhập. Bài 1.5 có cả phiên bản dùng `input()` trong phần giải thích; hai lỗi của mã gốc được bắt và in ra có chủ đích.
+Các notebook dùng dữ liệu cho sẵn để có thể chạy toàn bộ mà không chờ nhập. Bài 1.5 và 2.7 có cả cách dùng `input()` trong phần giải thích; lỗi của mã gốc được bắt và in ra để phân tích.
 
 ## Nguồn đề
 
 - [Kho notebook thực hành của giảng viên](https://github.com/manhhung182/Lap-trinh-Python-Exercises).
 - [Notebook Chương 1 gốc](https://github.com/manhhung182/Lap-trinh-Python-Exercises/blob/main/notebooks/ch01.ipynb).
+- [Notebook Chương 2 gốc](https://github.com/manhhung182/Lap-trinh-Python-Exercises/blob/main/notebooks/ch02.ipynb).
 - [Sách Kỹ thuật lập trình Python](https://lap-trinh-python-book.utc-math.workers.dev/).
 
 Đề và mã gốc được sử dụng theo giấy phép MIT của kho nguồn; thông tin bản quyền được giữ trong [LICENSE](LICENSE).
