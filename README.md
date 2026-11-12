@@ -7,9 +7,9 @@ Bài tập môn Kỹ thuật lập trình Python — Nguyễn Mạnh Hùng.
 
 | Chương | Các bài đã làm | Notebook |
 |---|---|---|
-| Chương 1 — Bài tập | Bài 1.1, 1.2, 1.3, 1.4, 1.5 | [Mở Chương 1](Hoang_Tien_Dat_223030610_Chuong_1.ipynb) |
-| Chương 2 — Thực hành | TH 2.3, 2.4, 2.7, 2.10, 2.11 | [Mở Thực hành Chương 2](Hoang_Tien_Dat_223030610_Thuc_hanh_Chuong_2.ipynb) |
-| Chương 3 — Thực hành số chẵn | TH 3.2, 3.4, 3.6, 3.8, 3.10 | [Mở Thực hành Chương 3](Hoang_Tien_Dat_223030610_Thuc_hanh_Chuong_3.ipynb) |
+| Chương 1 — Bài tập | Bài 1.1, 1.2, 1.3, 1.4, 1.5 | [Bài tập chương 1](Bai_tap_chuong_1.ipynb) |
+| Chương 2 — Thực hành | TH 2.3, 2.4, 2.7, 2.10, 2.11 | [Bài tập chương 2](Bai_tap_chuong_2.ipynb) |
+| Chương 3 — Thực hành số chẵn | TH 3.2, 3.4, 3.6, 3.8, 3.10 | [Bài tập chương 3](Bai_tap_chuong_3.ipynb) |
 
 ## Thực hành Chương 2
 
